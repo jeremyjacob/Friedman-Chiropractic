@@ -32,9 +32,12 @@
 					</div>
 					<div class="justify-between items-stretch flex gap-1.5">
 						<Icon src={Phone} theme="mini" class="w-5 h-5 text-white" />
-						<div class="text-white text-sm leading-4 self-center grow shrink basis-auto my-auto">
-							(123) 456-7890
-						</div>
+						<a
+							class="text-white text-sm leading-4 self-center grow shrink basis-auto my-auto"
+							href="tel:8182447600"
+						>
+							(818) 244-7600
+						</a>
 					</div>
 					<div class="justify-between items-stretch flex gap-1.5">
 						<Icon src={Envelope} theme="mini" class="w-5 h-5 text-white" />
@@ -47,12 +50,9 @@
 					<div class="text-white text-opacity-80 text-sm font-medium leading-4 uppercase">
 						Office Hours
 					</div>
-					<div class="text-white text-sm leading-4 whitespace-nowrap mt-5">
-						Monday–Thursday 7AM–3PM
-					</div>
-					<div class="text-white text-sm leading-4 mt-3">Friday 7AM–12PM</div>
-					<div class="text-white text-sm leading-4 mt-3">Saturday Closed</div>
-					<div class="text-white text-sm leading-4 mt-3">Sunday Closed</div>
+					<div class="text-white text-sm leading-4 whitespace-nowrap mt-5">Tuesday 9AM–5PM</div>
+					<div class="text-white text-sm leading-4 whitespace-nowrap mt-3">Thursday 9AM–5PM</div>
+					<div class="text-white text-sm leading-4 mt-3">Sunday 8AM–4PM</div>
 				</div>
 			</div>
 		</div>

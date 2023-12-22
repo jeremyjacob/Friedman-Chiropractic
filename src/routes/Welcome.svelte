@@ -7,13 +7,13 @@
 			<img
 				alt=""
 				loading="lazy"
-				srcset="spine-model.avif"
+				srcset="pelvis.png"
 				class="aspect-[1.6] rounded-3xl object-cover object-center w-full shadow-lg overflow-hidden grow max-md:mt-10"
 			/>
 		</div>
 		<div class="flex flex-col items-stretch self-center shrink-[1.2] max-md:w-full">
 			<div class="text-zinc-800 font-serif text-5xl font-medium leading-tight max-md:text-4xl">
-				Welcome to the Freedman family.
+				Welcome to the Friedman family.
 			</div>
 			<div class="text-black text-opacity-60 text-base leading-6 mt-6">
 				Friedman Family Chiropractic Services has been serving the Los Angeles area for over 25

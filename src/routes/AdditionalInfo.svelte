@@ -59,10 +59,10 @@
 				srcset="map.avif"
 				class="aspect-video md:aspect-[0.93] h-full w-full mt-8 object-cover rounded-2xl shadow-md"
 			/>
-			<h2 class="text-black font-serif mt-12 text-2xl">Convenient Location</h2>
+			<h2 class="text-black font-serif mt-12 text-2xl">Convenient location</h2>
 			<p class="text-black text-opacity-60 text-base mb-8">
-				Located off of the 5 and 134 Freeways, Dr. Howard's office is convenient to both the Burbank
-				and Glendale areas.
+				Located off of the 5 and 134 Freeways, Dr. Howard's office is convenient to the greater Los
+				Angeles areas.
 			</p>
 		</div>
 	</div>

@@ -14,12 +14,18 @@
 	class="flex-col overflow-hidden self-stretch relative flex w-full justify-center py-12 items-start max-md:px-5 px-16 h-[50rem]"
 >
 	<img alt="" src="runner.avif" class="absolute h-full w-full object-cover object-center inset-0" />
-	<div class="relative flex w-full mx-auto gap-3 flex-col items-stretch mt-44 mb-64 max-w-7xl">
+	<div class="relative flex w-full mx-auto gap-3 flex-col items-stretch mt-32 mb-64 max-w-7xl">
 		<div class="space-y-2">
-			<p class="text-6xl font-medium font-serif grow whitespace-nowrap max-md:text-4xl">
-				I need help with
+			<!-- <p class="mb-20 font-serif opacity-60 font-bold text-6xl">
+				““
+			</p> -->
+			<p class="mb-4 opacity-60 text-lg">Dr. Friedman believes in holistic chiropractic care.</p>
+			<p class="text-6xl font-medium font-serif grow w-[50rem] max-md:text-4xl">
+				There are <span class="text-sky-700 font-semibold">no such things</span> as “normal” aches and
+				pains.
 			</p>
-			<button
+			<p class="mb-4 pt-6 opacity-75 text-2xl">Your overall total health is what we strive for.</p>
+			<!-- <button
 				class=" text-6xl font-medium font-serif max-md:w-screen grow whitespace-nowrap max-md:text-4xl flex flex-col motion-reduce:transition-none transition-all {open &&
 					'px-6 py-5 bg-white shadow-lg md:rounded-3xl -mx-6'}"
 				on:click={() => (open = !open)}
@@ -47,13 +53,13 @@
 						Back pain
 					</button>
 				{/if}
-			</button>
+			</button> -->
 		</div>
 		<a
 			class="text-white whitespace-nowrap shadow-md bg-sky-700 mt-7 px-6 py-3 max-md:text-sm rounded-full self-start hover:bg-opacity-90 transition"
 			href="/book"
 		>
-			Get treatment
+			How can I achieve this?
 		</a>
 	</div>
 </section>

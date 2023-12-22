@@ -11,7 +11,7 @@
 			Testimonials
 		</div>
 		<div class="text-white text-5xl font-medium self-center mt-6 max-md:text-4xl font-serif">
-			What our patients say
+			What my patients say
 		</div>
 		<div
 			class="justify-between items-start flex gap-2.5 mt-14 pr-9 pt-4 pb-8 max-md:flex-wrap max-md:mt-10 max-md:pr-5"
@@ -49,7 +49,9 @@
 						srcset="https://cdn.builder.io/api/v1/image/assets/TEMP/75dec9976fa10bb1b0d73dd4d0617b6da976f610e62b3083552e853203310e5a?apiKey=c512c93dfc114879af852c574ddcf1df&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/75dec9976fa10bb1b0d73dd4d0617b6da976f610e62b3083552e853203310e5a?apiKey=c512c93dfc114879af852c574ddcf1df&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/75dec9976fa10bb1b0d73dd4d0617b6da976f610e62b3083552e853203310e5a?apiKey=c512c93dfc114879af852c574ddcf1df&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/75dec9976fa10bb1b0d73dd4d0617b6da976f610e62b3083552e853203310e5a?apiKey=c512c93dfc114879af852c574ddcf1df&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/75dec9976fa10bb1b0d73dd4d0617b6da976f610e62b3083552e853203310e5a?apiKey=c512c93dfc114879af852c574ddcf1df&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/75dec9976fa10bb1b0d73dd4d0617b6da976f610e62b3083552e853203310e5a?apiKey=c512c93dfc114879af852c574ddcf1df&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/75dec9976fa10bb1b0d73dd4d0617b6da976f610e62b3083552e853203310e5a?apiKey=c512c93dfc114879af852c574ddcf1df&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/75dec9976fa10bb1b0d73dd4d0617b6da976f610e62b3083552e853203310e5a?apiKey=c512c93dfc114879af852c574ddcf1df&"
 						class="aspect-square object-contain object-center w-10 overflow-hidden shrink-0 rounded-[50%]"
 					/>
-					<div class="text-white text-base font-medium my-auto">Jake Lestrange</div>
+					<div class="text-white text-base font-medium self-center grow whitespace-nowrap my-auto">
+						Whitney Smith
+					</div>
 				</div>
 			</div>
 			<div class="self-stretch flex grow basis-[0%] flex-col items-stretch">

@@ -9,7 +9,7 @@
 			Treatments
 		</div>
 		<div class="text-zinc-800 text-5xl font-medium mt-6 max-md:text-4xl font-serif">
-			We help with
+			I help with...
 		</div>
 		<div class="text-black text-opacity-60 text-base leading-6 mt-6 max-w-prose">
 			Chiropractic is the art and science of finding interference within the musculoskeletal system

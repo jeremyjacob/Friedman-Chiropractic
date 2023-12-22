@@ -26,7 +26,7 @@
 			</a>
 			<a class="text-zinc-800 text-base leading-4 self-center my-auto">About</a>
 			<a class="text-zinc-800 text-base leading-4 self-center grow whitespace-nowrap my-auto">
-				Contact
+				Contact me
 			</a>
 		</div>
 		<a
