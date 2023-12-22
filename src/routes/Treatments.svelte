@@ -5,18 +5,21 @@
 	class="bg-neutral-100 self-stretch flex w-full flex-col justify-center items-center mt-28 px-16 py-12 max-md:mt-10 max-md:px-5"
 >
 	<div class="flex w-full max-w-[1265px] flex-col items-stretch mt-12 mb-5 max-md:mt-10">
-		<div class="text-sky-800 text-opacity-60 text-sm font-medium leading-4 uppercase">
-			Treatments
-		</div>
+		<div class="text-sky-800 text-opacity-60 text-sm font-medium leading-4 uppercase">Healing</div>
 		<div class="text-zinc-800 text-5xl font-medium mt-6 max-md:text-4xl font-serif">
-			I help with...
+			Treat the root cause.
 		</div>
-		<div class="text-black text-opacity-60 text-base leading-6 mt-6 max-w-prose">
+		<p class="text-black text-opacity-60 text-base leading-6 mt-4 max-w-prose">
+			By developing a complete understanding of your situation, Dr. Howard will make a plan to treat
+			the cause of your discomfort—not just the symptom.
+		</p>
+		<!-- <div class="text-black text-opacity-60 text-base leading-6 mt-6 max-w-prose">
 			Chiropractic is the art and science of finding interference within the musculoskeletal system
 			and the nervous system. That interference can then be addressed or removed as gently as
 			possible.
-		</div>
-		<div class="mt-12 flex gap-7 flex-wrap">
+		</div> -->
+	</div>
+	<!-- <div class="mt-12 flex gap-7 flex-wrap">
 			<div class="flex px-5 py-5 flex-grow rounded-xl bg-white">
 				<div class="w-42 md:w-60 h-24">
 					<p class="text-xl">Neck pain</p>
@@ -269,6 +272,6 @@
 					</svg>
 				</div>
 			</div>
-		</div>
-	</div>
+		</div
+	</div> -->
 </section>
