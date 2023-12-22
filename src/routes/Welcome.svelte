@@ -8,7 +8,7 @@
 				alt=""
 				loading="lazy"
 				srcset="pelvis.png"
-				class="aspect-[1.6] rounded-3xl object-cover object-center w-full shadow-lg overflow-hidden grow max-md:mt-10"
+				class="aspect-[1.6] rounded-3xl object-cover object-center w-full 1shadow-lg overflow-hidden grow max-md:mt-10"
 			/>
 		</div>
 		<div class="flex flex-col items-stretch self-center shrink-[1.2] max-md:w-full">
