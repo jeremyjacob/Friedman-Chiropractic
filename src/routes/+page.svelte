@@ -5,17 +5,12 @@
 	import Treatments from './Treatments.svelte';
 	import Welcome from './Welcome.svelte';
 	import Hero from './Hero.svelte';
-	import NavBar from './NavBar.svelte';
-	import Header from './Header.svelte';
 </script>
 
-<Header></Header>
-<div class="items-start flex flex-col">
-	<NavBar></NavBar>
-	<Hero></Hero>
-	<Welcome></Welcome>
-	<Treatments></Treatments>
-	<!-- <section
+<Hero></Hero>
+<Welcome></Welcome>
+<Treatments></Treatments>
+<!-- <section
 		class="bg-neutral-100 self-stretch flex w-full flex-col justify-center items-center px-16 py-12 max-md:px-5"
 	>
 		<div class="flex w-full max-w-[1265px] flex-col items-stretch mt-12 mb-5 max-md:mt-10">
@@ -31,8 +26,6 @@
 			</p>
 		</div>
 	</section> -->
-	<Testimonials></Testimonials>
+<Testimonials></Testimonials>
 
-	<AdditionalInfo></AdditionalInfo>
-	<Footer></Footer>
-</div>
+<AdditionalInfo></AdditionalInfo>
