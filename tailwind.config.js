@@ -5,7 +5,7 @@ export default {
 	theme: {
 		extend: {
 			fontFamily: {
-				serif: ['Lora', 'sans-serif'],
+				serif: ['Merriweather', 'sans-serif'],
 				sans: ['Roboto', 'sans-serif']
 			}
 		}
