@@ -10,7 +10,7 @@
 >
 	<img
 		alt=""
-		src="/family-picnic.webp"
+		src="/family-picnic.jpg"
 		class="absolute h-full w-full object-cover inset-0 brightness-100 -scale-x-100 max-md:object-[25%,0%]"
 	/>
 	<div
