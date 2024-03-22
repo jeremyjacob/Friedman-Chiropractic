@@ -20,7 +20,7 @@
 			<!-- <p class="mb-20 font-serif opacity-60 font-bold text-6xl">
 				““
 			</p> -->
-			<p class="mb-4 opacity-60 uppercase text-sky-900">Dr. Howard Friedman</p>
+			<p class="mb-4 opacity-90 text-xl text-white">Dr. Howard Friedman</p>
 			<p class="text-6xl font-medium font-serif leading-tight grow max-w-[60rem] max-md:text-4xl">
 				There are <span class="text-sky-700 font-semibold">no such things</span> as “normal” aches and
 				pains.

@@ -1,7 +1,7 @@
 <header
 	class="bg-sky-950 flex flex-col items-center justify-center px-16 py-4 sticky top-0 w-full z-10 max-md:px-5"
 >
-	<div class="flex w-full justify-between items-stretch gap-5 max-w-7xl">
+	<div class="flex w-full justify-between md:items-stretch gap-5 max-w-7xl">
 		<a class="flex items-stretch justify-between gap-1.5 flex-shrink" href="">
 			<img
 				alt=""
@@ -15,7 +15,7 @@
 				1620 Victory Blvd<span class="max-md:hidden">, Glendale, CA</span>
 			</span>
 		</a>
-		<div class="text-white text-opacity-60 text-sm">
+		<div class="text-white text-opacity-60 text-sm max-md:hidden">
 			Our website is under active development—please bare with us during this transitional period.
 		</div>
 		<a class="flex items-stretch justify-between gap-1.5 max-md:ml-auto" href="tel:8182447600">

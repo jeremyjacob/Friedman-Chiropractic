@@ -8,9 +8,9 @@
 		'https://www.google.com/maps/place/@34.160148,-118.3017184,17z/data=!3m1!4b1!4m6!3m5!1s0x80c2c00a748add01:0x79621c03bafbf6c7!8m2!3d34.1601436!4d-118.2991381!16s%2Fg%2F1tfmchkq';
 </script>
 
-<footer class="bg-sky-950 w-full relative pl-16 max-md:pl-5">
-	<div class="max-w-7xl self-stretch flex w-full mx-auto">
-		<div class="my-20 pr-10 grow-[0.4]">
+<footer class="bg-sky-950 w-full relative grid grid-rows-[1fr,0.5fr] md:grid-cols-2 md:grid-rows-1">
+	<div class="max-w-7xl self-stretch flex max-md:pl-5 pl-16">
+		<div class="my-14 md:my-20 pr-10 grow-[0.4]">
 			<div class="text-white text-2xl leading-6">
 				<span class="font-medium text-white">Friedman</span>
 				<span class="">Family</span>
@@ -19,9 +19,7 @@
 			</div>
 			<div class="flex gap-8 mt-10 max-lg:flex-col">
 				<div class="flex gap-4 flex-col">
-					<div
-						class="text-white text-opacity-80 text-sm font-medium leading-4 uppercase max-md:mt-10"
-					>
+					<div class="text-white text-opacity-80 text-sm font-medium leading-4 uppercase">
 						Location
 					</div>
 					<div class="justify-between items-stretch flex gap-1.5">
@@ -56,12 +54,8 @@
 				</div>
 			</div>
 		</div>
-		<div class="grow"></div>
 	</div>
-	<div
-		id="mapDiv"
-		class="flex absolute right-0 left-1/2 top-0 bottom-0 flex-col items-stretch grow self-stretch"
-	>
+	<div class="flex flex-col items-stretch grow self-stretch">
 		<!-- svelte-ignore a11y-missing-content -->
 		<a class="h-full bg-[url(/map.avif)] bg-center bg-cover block" href={mapsURL} target="_blank"
 		></a>

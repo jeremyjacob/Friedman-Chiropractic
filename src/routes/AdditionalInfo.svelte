@@ -13,7 +13,7 @@
 </script>
 
 <section
-	class="justify-center items-center bg-white self-stretch flex w-full flex-col px-16 py-12 max-md:px-5"
+	class="justify-center items-center bg-white self-stretch flex w-full flex-col px-16 py-12 max-md:py-0 max-md:px-5"
 >
 	<div class="w-full max-w-7xl mx-auto mt-14 mb-6 max-md:mt-10">
 		<div
@@ -22,7 +22,7 @@
 			<img
 				alt=""
 				loading="lazy"
-				srcset="womans-back.jpg"
+				srcset="persons-back.avif"
 				class="aspect-video md:aspect-[0.93] h-full w-full mt-8 object-cover rounded-2xl shadow-md"
 			/>
 			<h2 class="text-black font-serif text-2xl mt-12">Helping your body heal</h2>
