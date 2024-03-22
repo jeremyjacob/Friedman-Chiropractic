@@ -2,7 +2,7 @@
 </script>
 
 <div class="flex gap-20 max-w-7xl mx-auto mt-10 mb-24">
-	<img src="dr-howard.png" alt="Dr. Howard" class="rounded-2xl" />
+	<img src="/dr-howard.png" alt="Dr. Howard" class="rounded-2xl" />
 	<div>
 		<p class="text-6xl font-medium font-serif leading-tight grow max-w-[60rem] max-md:text-4xl">
 			About Dr. Friedman

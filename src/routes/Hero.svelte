@@ -3,17 +3,18 @@
 	import { Icon } from '@steeze-ui/svelte-icon';
 	let open = false;
 	let selected: string | undefined = undefined;
-
-	const optionClass =
-		'transition hover:text-sky-700 text-5xl max-md:text-3xl duration-75 font-medium font-serif h-0 flex items-center option-in scale-95 opacity-0 w-full';
 </script>
 
 <section
-	class="flex-col overflow-hidden self-stretch relative flex w-full justify-center py-12 items-start max-md:px-5 px-16 h-[50rem]"
+	class="flex-col overflow-hidden self-stretch relative flex w-full justify-center py-12 items-start max-md:px-5 px-16"
 >
-	<img alt="" src="runner.avif" class="absolute h-full w-full object-cover object-center inset-0" />
+	<img
+		alt=""
+		src="/family-picnic.webp"
+		class="absolute h-full w-full object-cover inset-0 brightness-100 -scale-x-100 max-md:object-[25%,0%]"
+	/>
 	<div
-		class="relative flex w-full mx-auto gap-3 flex-col items-stretch mt-0 md:mt-32 mb-64 max-w-7xl"
+		class="relative flex w-full mx-auto gap-3 flex-col items-stretch mt-0 md:mt-32 mb-64 max-w-7xl pb-24"
 	>
 		<div class="space-y-2">
 			<!-- <p class="mb-20 font-serif opacity-60 font-bold text-6xl">
@@ -57,13 +58,13 @@
 				{/if}
 			</button> -->
 		</div>
-		<a
+		<!-- <a
 			class="text-white whitespace-nowrap shadow-md bg-sky-700 mt-14 px-6 py-3 max-md:text-sm rounded-full self-start hover:bg-opacity-90 transition flex gap-2 items-center"
 			href="/book"
 		>
 			<Icon src={BookOpen} theme="solid" class="h-5 w-5" />
 			Learn more
-		</a>
+		</a> -->
 	</div>
 </section>
 

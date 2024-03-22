@@ -22,7 +22,7 @@
 			<img
 				alt=""
 				loading="lazy"
-				srcset="womans-back.avif"
+				srcset="persons-back.jpg"
 				class="aspect-video md:aspect-[0.93] h-full w-full mt-8 object-cover rounded-2xl shadow-md"
 			/>
 			<h2 class="text-black font-serif text-2xl mt-12">Helping your body heal</h2>
