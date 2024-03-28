@@ -39,9 +39,12 @@
 					</div>
 					<div class="justify-between items-stretch flex gap-1.5">
 						<Icon src={Envelope} theme="mini" class="w-5 h-5 text-white" />
-						<div class="text-white text-sm leading-4 self-center grow shrink basis-auto my-auto">
+						<a
+							class="text-white text-sm leading-4 self-center grow shrink basis-auto my-auto"
+							href="mailto:info@friedmanfamilychiropractic.com"
+						>
 							info@friedmanfamilychiropractic.com
-						</div>
+						</a>
 					</div>
 				</div>
 				<div class="flex flex-col">

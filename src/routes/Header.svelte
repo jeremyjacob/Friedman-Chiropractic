@@ -15,9 +15,9 @@
 				1620 Victory Blvd<span class="max-md:hidden">, Glendale, CA</span>
 			</span>
 		</a>
-		<div class="text-white text-opacity-60 text-sm max-md:hidden">
+		<!-- <div class="text-white text-opacity-60 text-sm max-md:hidden">
 			Our website is under active development—please bare with us during this transitional period.
-		</div>
+		</div> -->
 		<a class="flex items-stretch justify-between gap-1.5 max-md:ml-auto" href="tel:8182447600">
 			<img
 				alt=""
