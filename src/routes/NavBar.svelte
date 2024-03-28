@@ -27,7 +27,7 @@
 			<a class="text-zinc-800 text-base leading-4 self-center my-auto" href="/about">About</a>
 			<a
 				class="text-zinc-800 text-base leading-4 self-center grow whitespace-nowrap my-auto"
-				href="tel:8182447600"
+				href="mailto:info@friedmanfamilychiropractic.com"
 			>
 				Contact me
 			</a>
