@@ -60,8 +60,9 @@
 	</div>
 	<div class="flex flex-col items-stretch grow self-stretch">
 		<!-- svelte-ignore a11y-missing-content -->
-		<a class="h-full bg-[url(/map.avif)] bg-center bg-cover block" href={mapsURL} target="_blank"
-		></a>
+		<a class="h-full bg-[url(/map.avif)] bg-center bg-cover block" href={mapsURL} target="_blank">
+			<span class="sr-only">Map</span>
+		</a>
 		<a
 			class="absolute justify-center items-center shadow-sm bg-sky-950 flex gap-1 px-3.5 py-2 rounded-lg bottom-4 right-5 hover:bg-opacity-90 transition"
 			href={mapsDirectionsURL}
