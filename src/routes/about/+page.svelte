@@ -1,8 +1,8 @@
 <script lang="ts">
 </script>
 
-<div class="flex gap-20 max-w-7xl mx-auto mt-10 mb-24">
-	<img src="/dr-howard.png" alt="Dr. Howard" class="rounded-2xl" />
+<div class="flex flex-col lg:flex-row gap-8 px-6 lg:gap-20 max-w-7xl mx-auto mt-10 mb-24">
+	<img src="/dr-howard.png" alt="Dr. Howard" class="rounded-2xl max-lg:max-h-56 w-fit" />
 	<div>
 		<p class="text-6xl font-medium font-serif leading-tight grow max-w-[60rem] max-md:text-4xl">
 			About Dr. Friedman
